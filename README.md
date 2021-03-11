@@ -4,6 +4,8 @@
 it is an arduino code that will allow you to detect the presence 
 of someone within a radius of 15 degrees and 4 meters of range
 
+![img](assets/détecteur_finalisé.png)
+
 ## 🎓 Goal achieved
     - [x] Understand of Arduino work inside
     - [x] Understand of Ultrasonic sensor work inside
